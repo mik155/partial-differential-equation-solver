@@ -1,0 +1,13 @@
+lamda = 0.4 t = 0.5 delta h = 0.5 BBW = 0.00687188 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.25 BBW = 0.00239446 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.125 BBW = 0.000629201 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.0625 BBW = 0.000159058 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.03125 BBW = 3.98722e-05 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.015625 BBW = 9.97475e-06 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.0078125 BBW = 2.49411e-06 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.00390625 BBW = 6.23552e-07 obliczenia zajely = 0 sec
+lamda = 0.4 t = 0.5 delta h = 0.00195312 BBW = 1.5589e-07 obliczenia zajely = 3 sec
+lamda = 0.4 t = 0.5 delta h = 0.000976562 BBW = 3.89725e-08 obliczenia zajely = 29 sec
+lamda = 0.4 t = 0.5 delta h = 0.000488281 BBW = 9.74318e-09 obliczenia zajely = 249 sec
+lamda = 0.4 t = 0.5 delta h = 0.000244141 BBW = 2.43595e-09 obliczenia zajely = 1987 sec
+lamda = 0.4 t = 0.5 delta h = 0.00012207 BBW = 6.09622e-10 obliczenia zajely = 15812 sec

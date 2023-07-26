@@ -1,0 +1,13 @@
+lamda = 1 t = 0.5 delta h = 0.5 BBW = 0.103919 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.25 BBW = 0.017814 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.125 BBW = 0.00353848 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.0625 BBW = 0.000820193 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.03125 BBW = 0.000200923 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.015625 BBW = 4.99714e-05 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.0078125 BBW = 1.24766e-05 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.00390625 BBW = 3.11814e-06 obliczenia zajely = 0 sec
+lamda = 1 t = 0.5 delta h = 0.00195312 BBW = 7.79472e-07 obliczenia zajely = 7 sec
+lamda = 1 t = 0.5 delta h = 0.000976562 BBW = 1.94864e-07 obliczenia zajely = 63 sec
+lamda = 1 t = 0.5 delta h = 0.000488281 BBW = 4.87151e-08 obliczenia zajely = 480 sec
+lamda = 1 t = 0.5 delta h = 0.000244141 BBW = 1.21761e-08 obliczenia zajely = 3898 sec
+lamda = 1 t = 0.5 delta h = 0.00012207 BBW = 3.03359e-09 obliczenia zajely = 30825 sec
